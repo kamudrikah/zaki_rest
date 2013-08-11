@@ -1,12 +1,11 @@
 <html>
 	<header>
-		
+		<link href="../assets/bootstrap/css/bootstrap.css" rel="stylesheet">
+		<link href="../assets/bootstrap/js/bootstrap.js" rel="javascript">
 	</header>
 	<body>
-		<title>zaki</title>
-		dlskflakjd
+		<title></title>
 	</body>
 	<footer>
-		jkhkjh
 	</footer>
-</html>asdasd
+</html>
