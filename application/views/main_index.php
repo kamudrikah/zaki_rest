@@ -4,7 +4,8 @@
 		<link href="../assets/bootstrap/js/bootstrap.js" rel="javascript">
 	</header>
 	<body>
-		<title></title>
+		<title>Main Page</title>
+		<a href="<?=site_url()?>/admin">Admin</a>
 	</body>
 	<footer>
 	</footer>
